@@ -1,2 +1,3 @@
 # APML_ex1
- MLP, Linear Regression and basic ConvNet implementations using NumPy and TensorFlow
+Implementation of basic models (MLP, Linear Regression and ConvNet) using Numpy and Tensorflow.
+Built as a part of Advanced Practical Machine Learning course in Huji.
